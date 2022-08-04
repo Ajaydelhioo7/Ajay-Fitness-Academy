@@ -1,0 +1,89 @@
+body{
+    background-color: aliceblue;
+    background-size: cover;
+}
+.card img{
+    width: 200px;
+    height:200px;
+    background-size: cover;
+    align-self: center;
+}
+.card{
+  
+    background-size: cover; 
+    
+}
+img{
+    width: 100%;
+    background-size: cover;
+    
+}
+.form{
+    width: 100%;
+    background-size: cover;
+}
+.navbar{
+    position:absolute;
+    width: 100%;
+    height: 80px;
+
+}
+h3{
+    font-family: 'Comic Neue', cursive;
+}
+.cards{
+    width: 100%;
+    background-size: cover;
+    display: inline-block;
+    background-color: white;
+}
+.card1{
+    margin: 40px;
+    width: 22%;
+    background-size: cover;
+    display: inline-block;
+    
+}
+.card2{
+    margin: 10px;
+    width: 22%;
+    background-size: cover;
+    display: inline-block;
+    
+}
+.card3{
+    margin: 10px;
+    width: 22%;
+    background-size: cover;
+    display: inline-block;
+    
+}
+.card4{
+    margin: 10px;
+    width: 22%;
+    background-size: cover;
+    display: inline-block;
+    
+}
+.regform{
+    background-image: url(/img/gym4.jpg);
+    background-size: cover;
+    height: 800px;
+
+
+}
+.loginfoam {
+    background-image: url(/img/gym4.jpg);
+    background-size: cover;
+    height: 800px;
+}
+
+.parareg{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.foot{
+    background-color: green;
+    color: black;
+    height: 80px;
+}
